@@ -12,7 +12,8 @@ During creating this program I reminded basic knowledge about:
 The program manage tasks and enable us to operate on tasks </br> 
 For example we can add, remove and list tasks depending on our input in console</br>
 If we decide to exit, program will save all tasks to file <br>
-In the next program run it will load all tasks from file</p>
+In the next program run it will load all tasks from file <br>
+<i>The program needs .csv file to work</i></p>
 <p>When the repository is downloaded you will have to do a few things.</br>
 1)Download all needed software bulleted above. </br>
 2)Launch your IDE(Intellij UE, eclipse, etc.) </br>
@@ -32,7 +33,8 @@ Tworząc ten program przypomniałem sobie podstawową wiedzę na temat:
 Program zarządza zadaniami i umożliwia nam operowanie na zadaniach </br> 
 Na przykład możemy dodawać, usuwać i wyświetlać zadania w zależności od tego, co wprowadziliśmy w konsoli</br>
 Jeśli zdecydujemy się wyjść, program zapisze wszystkie zadania do pliku <br>
-W następnym uruchomieniu program załaduje wszystkie zadania z pliku</p>
+W następnym uruchomieniu program załaduje wszystkie zadania z pliku<br>
+<i>Program potrzebuje pliku .csv do działania</i></p>
 <p>Po pobraniu repozytorium będziesz musiał zrobić kilka rzeczy.</br>
 1) Pobierz wszystkie potrzebne pliki źródłowe wymienione powyżej. </br>
 2) Uruchom swoje IDE (Intellij UE, Eclipse itp.) </br>
