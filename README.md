@@ -8,6 +8,7 @@ During creating this program I reminded basic knowledge about:
 <li>Methods</li> 
 <li>Variables</li> 
 <li>Operations on files</li> 
+<li>Importing and using external libraries with Maven</li> 
 </ul>
 The program manage tasks and enable us to operate on tasks </br> 
 For example we can add, remove and list tasks depending on our input in console</br>
@@ -29,6 +30,7 @@ Tworząc ten program przypomniałem sobie podstawową wiedzę na temat:
 <li>Metod</li> 
 <li>Zmiennych</li> 
 <li>Operacji na plikach</li> 
+<li>Importowania oraz wykorzystywania zewnętrznych bibliotek z użyciem Maven'a</li
 </ul>
 Program zarządza zadaniami i umożliwia nam operowanie na zadaniach </br> 
 Na przykład możemy dodawać, usuwać i wyświetlać zadania w zależności od tego, co wprowadziliśmy w konsoli</br>
